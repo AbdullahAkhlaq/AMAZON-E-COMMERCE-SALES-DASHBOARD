@@ -2,7 +2,7 @@
 
 This repository contains a Power BI report that analyzes various aspects of Amazon e-commerce sales.
 
-![Sales Report](./sales_report.pdf)
+![Sales Report](./sales_report.jpg)
 
 ## Overview
 
