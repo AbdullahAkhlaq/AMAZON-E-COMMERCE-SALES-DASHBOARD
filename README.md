@@ -1,4 +1,4 @@
-# Sales Report
+# Amazon E-Commerce Sales Dashboard
 
 This repository contains a Power BI report that analyzes various aspects of Amazon e-commerce sales.
 
@@ -16,10 +16,10 @@ This report provides insights into Amazon's e-commerce sales, including:
 
 ## Key Visuals
 
-- **Profit by Month**: This shows the monthly trends in profit.
+- **Profit by Month**: Monthly trends in profit.
 - **Profit by Sub-Category**: Breakdown of profits across different product sub-categories.
 - **Quantity by Category**: A pie chart depicting the percentage of quantities sold in different categories.
-- **Quantity by Payment Mode**: A breakdown of quantities sold by different payment methods.
+- **Quantity by Payment Mode**: Breakdown of quantities sold by different payment methods.
 - **Amount by State**: Visual representation of the total sales amount by state.
 - **Amount by Customer Name**: Identifies the top customers contributing to sales.
 
@@ -33,7 +33,7 @@ To view this report, you can either download the `.pbix` file and open it using 
 
 ## Repository Structure
 
-- `Sales Report.pbix`: The Power BI report file.
+- `Sales Report.pbix`: The Power BI report file (to be added).
 - `sales_report.pdf`: PDF version of the report.
 
 ## Contributing
